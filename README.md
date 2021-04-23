@@ -12,5 +12,4 @@ People could contribute in many ways
 
 We collaborate in this github organization: https://github.com/india-covid-stats
 If you'd like to join us reply your github username to this message and we will add you.
-
-Please do share any useful links which provide data.
+Join the Telegram Group https://t.me/covidstatsindia for more information
